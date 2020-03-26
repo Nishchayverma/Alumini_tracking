@@ -1,8 +1,9 @@
 # Alumini_United
 
  <p align ="center">
- <img src="https://github.com/Nishchayverma/Alumini_tracking/blob/master/docs/message.jpg" width =32%>
  <img src="https://github.com/Nishchayverma/Alumini_tracking/blob/master/docs/profile.jpg" width = 32%>
+ <br>
+ <img src="https://github.com/Nishchayverma/Alumini_tracking/blob/master/docs/message.jpg" width =32%>
  </p>
  
  
