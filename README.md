@@ -15,7 +15,7 @@ This is the problem statement of government of Goa that came in [SIH](https://ww
  
 ## Features
 
-I have designed half the UI needed for the project using firebase while the functional part of app ,ie, connecting with backend remains.
+I have designed half the UI needed for the project using flutter while the functional part of app ,ie, connecting with backend remains.
 I plan to use firebase for providing flexible backend.
 
 
